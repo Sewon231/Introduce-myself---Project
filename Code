@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sewon Lee </title>
+        
+    </head>
+    
+    <body>
+        <h1 style="color:DarkRed;">Welcome to my personal website</h1>
+        
+        <hr>
+        
+        <h3 style="color:#408088;">Introduce</h3>
+        
+        <p>
+           My name is Sewon Lee. I'm 11th grade in SJA JEJU. 
+           I play lacrosse and I prepare U-20 National Team. 
+           In future, I want to major statistics in collge because 
+           I want to be a sport data scientist. 
+        </p>
+        
+        <img src=
+        "https://www.usalacrosse.com/sites/default/files/2024-01/RB1_0860.jpeg"
+        width="200px" height="200px">
+        
+        <hr>
+
+        <h3 style="color:DarkBlue;">U-20 National Team</h3>
+
+        <p>
+            As I mentioned above, I am currently very passionate 
+            about the sport of lacrosse. The photo you see here is a 
+            photo of me doing 1-on-1 defense with the national team 
+            ace during the U-20 national team try out.
+        </p>
+        
+        <img src="https://codehs.com/uploads/9624145492181b3100bff6f8c69686cc"
+        width="200px" height="200px">
+        
+        <hr>
+        
+        <h3 style="color:#e4592d;">Sport Data Science</h3>
+
+        <p>
+            My dream is to be a sports data scientist. This summer, 
+            I studied data science at Harvard and UPenn in the US. 
+            It's also time to decide on a few universities.
+        </p>
+        
+        <ul>
+            <li>Major: Data Science</li>
+                <ol>
+                    <li style="background-color: #98FF98;">
+                        Boston University</li>
+                    <li style="background-color: #98FF98;">
+                        Purdue University</li>
+                    <li style="background-color: #98FF98;">
+                        University of Wisconsin-Madison</li>
+                </ol>
+            <li>Major: Statistic</li>
+                <ol>
+                    <li style="background-color: #98FF98;">
+                        Pennsylvania State University</li>
+                    <li style="background-color: #98FF98;">
+                        University of Illinois Urbana-Champaign</li>
+                    <li style="background-color: #98FF98;">
+                        University of Washington</li>
+                </ol>
+        </ul>
+        
+        <hr>
+
+        <h4 style="color:#e755d3;">Here is the highschool 
+        tournament video!</h4>
+        
+        
+    </body>
+</html>
